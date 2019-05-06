@@ -1,0 +1,24 @@
+Conteneur
+  Main
+    Bando
+
+    Content
+      div
+        utilisateur
+        titre
+        description
+
+    Footer
+      div
+        div
+          information
+        div
+          contact
+        div
+          autre
+
+Surcharge
+
+
+
+Classe ergo

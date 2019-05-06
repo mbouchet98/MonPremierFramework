@@ -1,0 +1,17 @@
+Nom de la table => utilisateur
+Clé primaire => id
+Clé etrangère =>
+Table de liaison =>
+Nom des champs => nom, prenom, age, email.
+
+Nom de la table => question
+Clé primaire => id
+Clé étrangère => utilisateur_id
+Table de liaison => (utilisateur)
+Nom  de champs => titre, description.
+
+Nom de la table => reponse
+Clé primaire => id
+Clé étrangère => utilisateur_id, question_id.
+Table de liaison => (utilisateur, question)
+Nom des champs => titre, description.
