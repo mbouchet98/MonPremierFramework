@@ -1,0 +1,69 @@
+/* Conteneur */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+
+}
+
+.main {
+  width: 800px;
+  height: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ban {
+  width: 100%;
+  height: 10%;
+  background-color: pink;
+  display: block;
+  float: left;
+}
+
+.content {
+  width: 100%;
+  height: 80%;
+  /*background-color: green;*/
+  display: block;
+  float: left;
+}
+
+.menu {
+  width: 100%;
+  height: 10%;
+  background-color: red;
+  display: block;
+  float: left;
+}
+
+.maincontent {
+  width: 100%;
+  height: 90%;
+  background-color: green;
+  display: block;
+  float: left;
+}
+
+.footer {
+  width: 100%;
+  height: 10%;
+  background-color: blue;
+  display: block;
+  float: left;
+}
+
+/* Surcharge */
+
+.inp {
+  width: 150px;
+}
+
+label {
+  width: 150px;
+}
+
+/* Classe ergo */
